@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋, I'm VENKATA PRAVEEN AKULA  
+### A passionate software developer from India
 
-<!--
-**AKULAVENKATAPRAVEEN/AKULAVENKATAPRAVEEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Fake News Detection using Machine Learning**
+- 🌱 I’m currently learning **Cloud Computing**
+- 💻 I’m building a **Portfolio Website and deploying it on AWS**
+- 📫 How to reach me: **akulavenkatapraveen@gmail.com**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect with me:
+- [LinkedIn](https://linkedin.com/in/akula-venkata-praveen)
+- [Instagram](https://instagram.com/venkatapraveen_akula)
+- [LeetCode](https://www.leetcode.com/akulavenkatapraveen)
+- [GeeksForGeeks](https://auth.geeksforgeeks.org/user/akulavenkawauf)
+
+---
+
+### 🛠️ Languages and Tools:
+- **Languages**: C, C++, Python, JavaScript, HTML, CSS
+- **Web & Cloud**: Node.js, Express.js, MongoDB, MySQL, AWS, Linux
+- **Machine Learning**: Pandas, NumPy, Scikit-learn, OpenCV, Seaborn, MATLAB
+- **Frontend**: React.js
+- **Others**: Git, GitHub
+
+---
+
+Thanks for visiting! 🚀
