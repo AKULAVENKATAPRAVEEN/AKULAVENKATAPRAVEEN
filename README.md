@@ -1,5 +1,8 @@
 # Hi 👋, I'm VENKATA PRAVEEN AKULA  
-### A passionate software developer from India
+### Student at National Institute of Technology, Trichy 
+  👨‍💻 I’m a **Full Stack enthusiast** currently learning **Cloud Computing with AWS**
+  ☁️ I enjoy building web applications and deploying them to the cloud
+
 
 - 🔭 I’m currently working on **Fake News Detection using Machine Learning**
 - 🌱 I’m currently learning **Cloud Computing**
