@@ -9,7 +9,7 @@
 ---
 
 ### 🌐 Connect with me:
-- [LinkedIn](https://linkedin.com/in/akula-venkata-praveen)
+- [LinkedIn](https://www.linkedin.com/in/akula-venkata-praveen-424929280/)
 - [Instagram](https://instagram.com/venkatapraveen_akula)
 - [LeetCode](https://www.leetcode.com/akulavenkatapraveen)
 - [GeeksForGeeks](https://auth.geeksforgeeks.org/user/akulavenkawauf)
