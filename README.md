@@ -1,4 +1,4 @@
-# Hi 👋, I'm VENKATA PRAVEEN AKULA  
+# Hi 👋, I'm  PRAVEEN  
 ### Student at National Institute of Technology, Trichy 
   👨‍💻 I’m a **Full Stack enthusiast** currently learning **Cloud Computing with AWS**
   ☁️ I enjoy building web applications and deploying them to the cloud
