@@ -16,7 +16,8 @@
 - [Instagram](https://instagram.com/venkatapraveen_akula)
 - [LeetCode](https://www.leetcode.com/akulavenkatapraveen)
 - [GeeksForGeeks](https://auth.geeksforgeeks.org/user/akulavenkawauf)
-
+- [Codechef](https://www.codechef.com/users/luffy1903)
+- [Codeforces](https://codeforces.com/profile/akulavenkatapraveen)
 ---
 
 ### 🛠️ Languages and Tools:
