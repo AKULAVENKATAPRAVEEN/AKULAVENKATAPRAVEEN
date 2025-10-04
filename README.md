@@ -1,12 +1,12 @@
 # Hi 👋, I'm  PRAVEEN  
 ### Student at National Institute of Technology, Trichy 
-  👨‍💻 I’m a **Full Stack enthusiast** currently learning **Cloud Computing with AWS**
-  ☁️ I enjoy building web applications and deploying them to the cloud
+  👨‍💻 I’m a **Devops enthusiast** currently learning **Cloud Computing with AWS**
+  ☁️ I enjoy building web applications and deploying them to the cloud and maintaning ci/cd pipelines and containerizing applications.
 
 
-- 🔭 I’m currently working on **Fake News Detection using Machine Learning**
-- 🌱 I’m currently learning **Cloud Computing**
-- 💻 I’m building a **Portfolio Website and deploying it on AWS**
+- 🔭 I’m currently working on **Anime recommendation system using Machine Learning**
+- 🌱 I’m currently learning **Devops&Cloud Computing**
+- 💻 I’m building a **Anime recommendation model**
 - 📫 How to reach me: **akulavenkatapraveen@gmail.com**
 
 ---
@@ -20,10 +20,10 @@
 ---
 
 ### 🛠️ Languages and Tools:
-- **Languages**: C, C++, Python, JavaScript, HTML, CSS
-- **Web & Cloud**: Node.js, Express.js, MongoDB, MySQL, AWS, Linux
+- **Languages**: C, C++, Python, JavaScript,
+- **Web& Devops&Cloud**: Node.js, Express.js, MongoDB, MySQL, AWS, Linux, Docker, Kubernetes, Jenkins
 - **Machine Learning**: Pandas, NumPy, Scikit-learn, OpenCV, Seaborn, MATLAB
-- **Frontend**: React.js
+- **Frontend**: React.js,HTML,CSS
 - **Others**: Git, GitHub
 
 ---
