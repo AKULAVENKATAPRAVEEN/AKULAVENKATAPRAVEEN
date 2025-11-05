@@ -1,7 +1,7 @@
 # Hi 👋, I'm  PRAVEEN  
 ### Student at National Institute of Technology, Trichy 
   👨‍💻 I’m a **Devops enthusiast** currently learning **Cloud Computing with AWS**
-  ☁️ I enjoy building web applications and deploying them to the cloud and maintaning ci/cd pipelines and containerizing applications.
+  ☁️ I enjoy building web applications and deploying them to the cloud and maintaning CI/CD pipelines and containerizing applications.
 
 
 - 🔭 I’m currently working on **Anime recommendation system using Machine Learning**
